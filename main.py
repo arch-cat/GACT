@@ -15,6 +15,7 @@ from docxtpl import DocxTemplate                                # Импорти
 from PyQt5.QtGui import QColor, QPalette
 import design                                                   # Импортируем файл дизайна PyQT5
 
+# Test
 
 # Создаем DataFrame из export.xlsx
 df_1 = pd.read_excel(r'export.xlsx', sheet_name='Лист1')
